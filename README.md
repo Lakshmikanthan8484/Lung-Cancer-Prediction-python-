@@ -1,4 +1,3 @@
-# Lung-Cancer-Prediction-python-
 # 🩺 Lung Cancer Prediction
 
 A machine learning project to predict lung cancer risk based on patient data using **Python**, **scikit-learn**, and **XGBoost**.  
